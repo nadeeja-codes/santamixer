@@ -1,0 +1,26 @@
+[
+    {
+       "name": "Fox",
+       "group": "1",
+       "email": "fox@example.com",
+       "amount": "2000"
+    },
+    {
+       "name": "Chinthi",
+       "group": "1",
+       "email": "chinthi@example.com",
+       "amount": "2000"
+    },
+    {
+       "name": "Chana",
+       "group": "",
+       "email": "chana@example.com",
+       "amount": "2000"
+    },
+    {
+        "name": "Flynn",
+        "group": "",
+        "email": "flynn@example.com",
+        "amount": "2000"
+     }
+]

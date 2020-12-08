@@ -1,0 +1,16 @@
+{
+  "name": "santamixer",
+  "version": "1.0.0",
+  "description": "A simple Secret Santa generator with exclusion groups and SendGrid email integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Fox",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.0"
+  },
+  "type": "module"
+}

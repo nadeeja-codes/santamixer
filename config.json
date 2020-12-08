@@ -1,0 +1,10 @@
+{
+    "printMatches": true,
+    "sendMails": false,
+    "shuffleAttempts": 100,
+    "sendOnShuffleFail": false,
+    "api_key": "",
+    "from": "santa@example.com",
+    "subject": "You're a Santa!",
+    "message": "You will be gifting <strong>{name}!</strong><br><br> Keep the gift under <strong> {amount} </strong><br><br> Merry Christmas!<br><br>This is an auto-generated email. Nobody knows who their Santa is!<br><a href=\"https://github.com/nadeeja-codes/santamixer\">Check it out on GitHub</a>"
+}
