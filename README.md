@@ -9,8 +9,8 @@ Born out of necessity for a fully anonymous secret santa generator which can avo
   - Configurable email body with placeholder support
 
 # Usage
-Install NodeJS and NPM
-Checkout
+- Install NodeJS and NPM
+- Checkout
 
 ```sh
 $ cd santamixer
