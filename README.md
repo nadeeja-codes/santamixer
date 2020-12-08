@@ -22,9 +22,9 @@ $ npm start
 ## santa.json
 This file contains the list of players. Example json:
 
-- Only 'group' and 'email' properties are mandatory.
+- Only 'name', 'group' and 'email' properties are mandatory.
 - Players with the same group value will not be matched (unless its impossible to do so)
-- You can add any parameter you like ('name' and 'amount' in this case)
+- You can add any parameters you like ('amount' in this case)
 - Any of these parameters can be injected into the email body with placeholders (example below)
 ```json
 [
@@ -56,7 +56,7 @@ This file contains the list of players. Example json:
 ```
 
 ## config.json
-Detailed explanation for each config key below
+
 ```json
 {
     "printMatches": true,
